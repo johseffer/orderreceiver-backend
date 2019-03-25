@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20181218234611_TablesCreation.cs" />
+    <Compile Remove="Migrations\20181218234611_TablesCreation.Designer.cs" />
+    <Compile Remove="Migrations\20181218234854_Initial.cs" />
+    <Compile Remove="Migrations\20181218234854_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderReceiver.Domain\OrderReceiver.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Migrations\20181218235056_Initial.Designer.cs">
+      <DependentUpon>20181218235056_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Migrations\20181221101802_CreateProductNameAndOrderDate.Designer.cs">
+      <DependentUpon>20181221101802_CreateProductNameAndOrderDate.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Migrations\20181223022326_CreateCustomerInOrder_FK.Designer.cs">
+      <DependentUpon>20181223022326_CreateCustomerInOrder_FK.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>

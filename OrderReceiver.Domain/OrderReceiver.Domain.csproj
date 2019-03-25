@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DTO\Order\OrderGetItemDTO.cs" />
+    <Compile Remove="DTO\Order\OrderGetProductDTO.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderReceiver\OrderReceiver.csproj" />
+  </ItemGroup>
+
+</Project>
