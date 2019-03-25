@@ -1,0 +1,9 @@
+C:\TFS\orderreceiver-backend\OrderReceiver\bin\Debug\netcoreapp2.1\OrderReceiver.deps.json
+C:\TFS\orderreceiver-backend\OrderReceiver\bin\Debug\netcoreapp2.1\OrderReceiver.dll
+C:\TFS\orderreceiver-backend\OrderReceiver\bin\Debug\netcoreapp2.1\OrderReceiver.pdb
+C:\TFS\orderreceiver-backend\OrderReceiver\obj\Debug\netcoreapp2.1\OrderReceiver.csprojAssemblyReference.cache
+C:\TFS\orderreceiver-backend\OrderReceiver\obj\Debug\netcoreapp2.1\OrderReceiver.csproj.CoreCompileInputs.cache
+C:\TFS\orderreceiver-backend\OrderReceiver\obj\Debug\netcoreapp2.1\OrderReceiver.AssemblyInfoInputs.cache
+C:\TFS\orderreceiver-backend\OrderReceiver\obj\Debug\netcoreapp2.1\OrderReceiver.AssemblyInfo.cs
+C:\TFS\orderreceiver-backend\OrderReceiver\obj\Debug\netcoreapp2.1\OrderReceiver.dll
+C:\TFS\orderreceiver-backend\OrderReceiver\obj\Debug\netcoreapp2.1\OrderReceiver.pdb

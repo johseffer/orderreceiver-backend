@@ -1,0 +1,12 @@
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\bin\Debug\netcoreapp2.1\OrderReceiver.Domain.deps.json
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\bin\Debug\netcoreapp2.1\OrderReceiver.Domain.dll
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\bin\Debug\netcoreapp2.1\OrderReceiver.Domain.pdb
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\bin\Debug\netcoreapp2.1\OrderReceiver.dll
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\bin\Debug\netcoreapp2.1\OrderReceiver.pdb
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.csprojAssemblyReference.cache
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.csproj.CoreCompileInputs.cache
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.AssemblyInfoInputs.cache
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.AssemblyInfo.cs
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.csproj.CopyComplete
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.dll
+C:\TFS\orderreceiver-backend\OrderReceiver.Domain\obj\Debug\netcoreapp2.1\OrderReceiver.Domain.pdb
