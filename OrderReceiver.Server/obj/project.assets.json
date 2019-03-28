@@ -1743,10 +1743,10 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/2.1.8": {
+      "Microsoft.EntityFrameworkCore.SqlServer/2.1.4": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.8",
+          "Microsoft.EntityFrameworkCore.Relational": "2.1.4",
           "System.Data.SqlClient": "4.5.1"
         },
         "compile": {
@@ -6125,16 +6125,16 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/2.1.8": {
-      "sha512": "/iddGXryzw2uNXoGjKpsaBvVW7x+8pRwVdPaF+KXGKEmou2fpynXcoQaOJ3moMnpDbBxnACrBB8hMWbzS8jvdA==",
+    "Microsoft.EntityFrameworkCore.SqlServer/2.1.4": {
+      "sha512": "Wnl51dw9/iuccesbkxvD4Z8IpfvhqqSWycRe3wOi7udXJGzB3uhFM2nM5CiWqmAYwZw6JdSxj1FkVhKQYrVMSA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/2.1.8",
+      "path": "microsoft.entityframeworkcore.sqlserver/2.1.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.2.1.8.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.2.1.4.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -12349,7 +12349,7 @@
       "Microsoft.EntityFrameworkCore.Abstractions >= 2.1.8",
       "Microsoft.EntityFrameworkCore.Analyzers >= 2.2.1",
       "Microsoft.EntityFrameworkCore.Relational >= 2.1.8",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.8",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.4",
       "Microsoft.Extensions.Caching.Abstractions >= 2.2.0",
       "Microsoft.Extensions.Caching.Memory >= 2.2.0",
       "Microsoft.Extensions.Configuration >= 2.2.0",
@@ -12464,7 +12464,7 @@
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[2.1.8, )"
+            "version": "[2.1.4, )"
           },
           "Microsoft.Extensions.Caching.Abstractions": {
             "target": "Package",
